@@ -1,0 +1,39 @@
+/home/puyolo/Desktop/Assignment 4/bin/Debug/netcoreapp3.1/Assignment 4
+/home/puyolo/Desktop/Assignment 4/bin/Debug/netcoreapp3.1/Assignment 4.deps.json
+/home/puyolo/Desktop/Assignment 4/bin/Debug/netcoreapp3.1/Assignment 4.runtimeconfig.json
+/home/puyolo/Desktop/Assignment 4/bin/Debug/netcoreapp3.1/Assignment 4.runtimeconfig.dev.json
+/home/puyolo/Desktop/Assignment 4/bin/Debug/netcoreapp3.1/Assignment 4.dll
+/home/puyolo/Desktop/Assignment 4/bin/Debug/netcoreapp3.1/Assignment 4.pdb
+/home/puyolo/Desktop/Assignment 4/obj/Debug/netcoreapp3.1/Assignment 4.csprojAssemblyReference.cache
+/home/puyolo/Desktop/Assignment 4/obj/Debug/netcoreapp3.1/Assignment 4.AssemblyInfoInputs.cache
+/home/puyolo/Desktop/Assignment 4/obj/Debug/netcoreapp3.1/Assignment 4.AssemblyInfo.cs
+/home/puyolo/Desktop/Assignment 4/obj/Debug/netcoreapp3.1/Assignment 4.csproj.CoreCompileInputs.cache
+/home/puyolo/Desktop/Assignment 4/obj/Debug/netcoreapp3.1/Assignment 4.dll
+/home/puyolo/Desktop/Assignment 4/obj/Debug/netcoreapp3.1/Assignment 4.pdb
+/home/puyolo/Desktop/Assignment 4/obj/Debug/netcoreapp3.1/Assignment 4.genruntimeconfig.cache
+/home/puyolo/Desktop/uwc/Assignment 4/bin/Debug/netcoreapp3.1/Assignment 4
+/home/puyolo/Desktop/uwc/Assignment 4/bin/Debug/netcoreapp3.1/Assignment 4.deps.json
+/home/puyolo/Desktop/uwc/Assignment 4/bin/Debug/netcoreapp3.1/Assignment 4.runtimeconfig.json
+/home/puyolo/Desktop/uwc/Assignment 4/bin/Debug/netcoreapp3.1/Assignment 4.runtimeconfig.dev.json
+/home/puyolo/Desktop/uwc/Assignment 4/bin/Debug/netcoreapp3.1/Assignment 4.dll
+/home/puyolo/Desktop/uwc/Assignment 4/bin/Debug/netcoreapp3.1/Assignment 4.pdb
+/home/puyolo/Desktop/uwc/Assignment 4/obj/Debug/netcoreapp3.1/Assignment 4.csprojAssemblyReference.cache
+/home/puyolo/Desktop/uwc/Assignment 4/obj/Debug/netcoreapp3.1/Assignment 4.AssemblyInfoInputs.cache
+/home/puyolo/Desktop/uwc/Assignment 4/obj/Debug/netcoreapp3.1/Assignment 4.AssemblyInfo.cs
+/home/puyolo/Desktop/uwc/Assignment 4/obj/Debug/netcoreapp3.1/Assignment 4.csproj.CoreCompileInputs.cache
+/home/puyolo/Desktop/uwc/Assignment 4/obj/Debug/netcoreapp3.1/Assignment 4.dll
+/home/puyolo/Desktop/uwc/Assignment 4/obj/Debug/netcoreapp3.1/Assignment 4.pdb
+/home/puyolo/Desktop/uwc/Assignment 4/obj/Debug/netcoreapp3.1/Assignment 4.genruntimeconfig.cache
+/home/puyolo/Desktop/uwc/Assignment4/MPS_Assig4/bin/Debug/netcoreapp3.1/Assignment 4
+/home/puyolo/Desktop/uwc/Assignment4/MPS_Assig4/bin/Debug/netcoreapp3.1/Assignment 4.deps.json
+/home/puyolo/Desktop/uwc/Assignment4/MPS_Assig4/bin/Debug/netcoreapp3.1/Assignment 4.runtimeconfig.json
+/home/puyolo/Desktop/uwc/Assignment4/MPS_Assig4/bin/Debug/netcoreapp3.1/Assignment 4.runtimeconfig.dev.json
+/home/puyolo/Desktop/uwc/Assignment4/MPS_Assig4/bin/Debug/netcoreapp3.1/Assignment 4.dll
+/home/puyolo/Desktop/uwc/Assignment4/MPS_Assig4/bin/Debug/netcoreapp3.1/Assignment 4.pdb
+/home/puyolo/Desktop/uwc/Assignment4/MPS_Assig4/obj/Debug/netcoreapp3.1/Assignment 4.csprojAssemblyReference.cache
+/home/puyolo/Desktop/uwc/Assignment4/MPS_Assig4/obj/Debug/netcoreapp3.1/Assignment 4.AssemblyInfoInputs.cache
+/home/puyolo/Desktop/uwc/Assignment4/MPS_Assig4/obj/Debug/netcoreapp3.1/Assignment 4.AssemblyInfo.cs
+/home/puyolo/Desktop/uwc/Assignment4/MPS_Assig4/obj/Debug/netcoreapp3.1/Assignment 4.csproj.CoreCompileInputs.cache
+/home/puyolo/Desktop/uwc/Assignment4/MPS_Assig4/obj/Debug/netcoreapp3.1/Assignment 4.dll
+/home/puyolo/Desktop/uwc/Assignment4/MPS_Assig4/obj/Debug/netcoreapp3.1/Assignment 4.pdb
+/home/puyolo/Desktop/uwc/Assignment4/MPS_Assig4/obj/Debug/netcoreapp3.1/Assignment 4.genruntimeconfig.cache
